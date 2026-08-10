@@ -2,7 +2,6 @@
 // pre order and after deletion//
 
 
-
 class Node {
     int key, height;
     Node left, right;
