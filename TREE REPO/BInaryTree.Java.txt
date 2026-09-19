@@ -24,7 +24,7 @@ public class Main {
         System.out.print(node.data + " ");
         inorder(node.right);
     }
-
+ 
     public static void main(String[] args) {
 
         
