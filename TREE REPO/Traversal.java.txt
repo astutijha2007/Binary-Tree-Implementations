@@ -46,6 +46,7 @@ public class Main {
         y.height = 1 + Math.max(height(y.left), height(y.right));
 
         return y;
+
     }
 
     static Node insert(Node node, int key) {
